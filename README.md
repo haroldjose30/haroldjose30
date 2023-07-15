@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **KMM-Kotlin Multiplatform Mobile**
 
-- 👨‍💻 All of my projects are available at [www.haroldjose.dev](www.haroldjose.dev)
+- 👨‍💻 All of my projects are available at [www.haroldjose.dev](https://haroldjose.dev/)
 
 - 💬 Ask me about **Swift, Kotlin or Xamarin**
 
