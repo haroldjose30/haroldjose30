@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.haroldjose.dev](https://haroldjose.dev/)
 
-- 💬 Ask me about **Swift, Kotlin or KMP - Koltin MultiPlatform**
+- 💬 Ask me about **Swift, Kotlin or KMP - Kotlin MultiPlatform**
 
 - 📫 How to reach me **haroldbarros@gmail.com**
 
