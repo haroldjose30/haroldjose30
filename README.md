@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harold Jose</h1>
 <h3 align="center">A passionate Mobile developer</h3>
 
-- 🔭 I’m currently working on [Lufthansa Airlines](https://apps.apple.com/us/app/lufthansa/id299219152)
+- 🔭 I’m currently working on [Lufthansa Airlines App](https://apps.apple.com/us/app/lufthansa/id299219152)
 
 - 🌱 I’m currently learning **KMM-Kotlin Multiplatform Mobile**
 
